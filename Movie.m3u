@@ -1,5 +1,21 @@
 #EXTM3U
-##EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-z6NpX2TMEJY/YGLX7DSpLwI/AAAAAAAALX4/srl3bxuhuzYOrgz5RdQdCPJ3HEbeUZDIACLcBGAsYHQ/s16000/Hantu%2BSangkut%2B2.0.jpg", Hantu Sangkut 2.0 2021
+-= Melayu =-
+
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEyYTMzOTktMTVlNi00NWU0LWE3NTMtNmIwOTcxZGI2ODUzXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_FMjpg_UX1000_.jpg", Antaramasa (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Antaramasa.2021.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NTEzYWEtODExZC00YzgwLWI3YzItZThlNTMxNmM3MTVjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_FMjpg_UX1000_.jpg", Hutang 2D (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Hutang.2D.2021.1080p.WEBRip.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://apicms.mstar.com.my/uploads/images/2021/08/13/1254767.jpg", Ada Hantu (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Ada%20Hantu.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-GfuxiGRX6n0/YPQSUD3H-FI/AAAAAAAAMC0/mzPcpjqEyxgXse7Te3SzoJ2gSqYL8eXxQCLcBGAsYHQ/s16000/Sebelum%2BPulang.jpg", Sebelum Pulang (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sebelum%20Pulang%20(2021).mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRhOWNmZDQtNzc5NC00MWEwLWExNTMtMjgwY2E5MTZiNjRjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Main Main Hantu (1990)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Main-main%20Hantu.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0ZDI1YzQtZDNmYS00OTBlLWFmNTAtZjRkNzI4ZDAzMGIyXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Mat Bond Malaya (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Mat%20Bond%20Malaya%20(2021).mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wQBqw5T8FfXys4KwHUmkqsGhVCJ.jpg", Sofaz The Movie Jiwa Kacau (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sofaz%20The%20Movie-Jiwa%20Kacau%20(2012).mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-z6NpX2TMEJY/YGLX7DSpLwI/AAAAAAAALX4/srl3bxuhuzYOrgz5RdQdCPJ3HEbeUZDIACLcBGAsYHQ/s16000/Hantu%2BSangkut%2B2.0.jpg", Hantu Sangkut 2.0 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Hantu.Sangkut.2.0.2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d2/Kembara-seniman-jalanan-1-.jpg/220px-Kembara-seniman-jalanan-1-.jpg", Kembara Seniman Jalanan 1986
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Kembara.Seniman.Jalanan%201986.mp4
@@ -368,6 +384,72 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dz0Rnu1F8LB75D54EgJSzYwuW2r.jpg", Fighter in the Wind (2004)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Fighter%20in%20the%20Wind%202004.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBmOWZmMmYtODZjZC00NGYxLWI3MTktYTk5ODQ1ZGIwZmQyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg", The Cat (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Cat%20(2011).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tAYHRuKxNa4arD32YTmDT1j46Mi.jpg", Perempuan Tanah Jahanam (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Perempuan.Tanah.Jahanam.2019.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rfGo5NiPfGof3BUiDM26D3EoobK.jpg", Fist of Legend (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Fist.of.Legend.2019.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg", Serigala Langit (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/erigala%20Langit%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hngKHgBHRD5nbTx92zatBC6eMSP.jpg", Deliver Us From Evil (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Deliver%20Us%20From%20Evil%20(2020).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ziNZV9TNICh9kOwoRK0k7UkNyKJ.jpg", The Thousand Faces Of Dunjia (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Thousand%20Faces%20Of%20Dunjia%20(2017).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hOk96JKO4fX2hK9YzxYCN0WtvFw.jpg", Brave Gunjyo Senki (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/brave%20gunjyo%20senki%202021.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://cdn.kissasians.org/images/2021/05/Mouse-2021-The-Theatrical-Cut-220x320.png", Mouse (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Mouse.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/p49PY98XXIXY6ZkQjeyoqDx892l.jpg", One Second Champion (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/One%20Second%20Champion%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sRzSfpSb3wYYshbaiMRIuFCJJGU.jpg", CJ7 (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/CJ7.2008.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rOOfFfD3rodmIaIe0jpEiCRsHdw.jpg", Forbidden City Cop (1996)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Forbidden.City.Cop.1996.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ew5QWD64t5ngd7yKNiVIIyjAMKa.jpg", When Fortune Smiles (1990)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/When_Fortune_Smiles_1990.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/eGVEvAoAeGi33muA10xjWPh58Wj.jpg", Sixty Million Dollar Man (1995)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Sixty_Million_Dollar_Man_1995.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pJHERfFGTCm3YlbwKNkqlLxphba.jpg", A Better Tomorrow (1986)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A.Better.Tomorrow.1986.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tpnR174jTJqdduuOFGeI7RdKHZZ.jpg", A Better Tomorrow II (1987)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A.Better.Tomorrow.II.1987..mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gnBO55MPkWhoEmfSD3n675XtxEO.jpg", A Better Tomorrow III (1989)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A.Better.Tomorrow.III.1989.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/nlTMQXCrwInbQd0qFapPoPVsnOH.jpg", Flirting Scholar (1993)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Flirting.Scholar.1993.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dmJWvKNgeCrIwJH6AapdSMiZHop.jpg", The King of Comedy (1999)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/The_King_of_Comedy_1999.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kuQq5WL6NG89ozASyykFlgyQ0dq.jpg", JUSTICE, MY FOOT! (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Justice,_My_Foot!1992.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/p2TnX8MwCM6GUjcX0R6s3wDb9En.jpg", A Chinese Odyssey: Part One - Pandora's Box (1995)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A%20Chinese%20Odyssey%20Part%201%20-%20Pandora.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4NVQ6rDjPdJ1fayNggtL87nkAuE.jpg", A Chinese Odyssey: Part Two - Cinderella (1995)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A%20Chinese%20Odyssey%20Part%202%20-%20Cinderella.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8zWliijoTsk3kUdUJpbjqWgV617.jpg", Shinjuku Incident (2009)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Shinjuku%20Incident%20(2009).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lyqkQ6y7d4YGVQrRjtmGTRMVcDY.jpg", Inuyashiki (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Inuyashiki(2018).m4v
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4uwxfZBJzk7d1xsbRFgG92R7JtW.jpg", Dreadout (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/DreadOut%20(2019).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg", Old boy (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Oldboy%20%20(2003).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cI9SXHxBsEF0cgUTZKDDaPC0ozT.jpg", Pieta (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Pieta%20(2012).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4bWVILPrb7gaqwA2j6xIcg4Ak3D.jpg", The chaser (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Chaser%20(2008).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk0ODMxYTgtY2I4Mi00Y2VjLWFiMzMtODc2ZWM4Mzg5N2NjXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_FMjpg_UX1000_.jpg", The yellow sea (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Yellow%20Sea%20(2010).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mFnfTVADj8yOxwzprYOmTPselk8.jpg", Capernaum (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Capernaum%20(2018).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg", The Divine Fury (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Divine%20Fury%20(2019).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/c7JzcVK4OZY1u7HYiFBOASkKPP5.jpg", Ride or Die (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/RIDE%20OR%20DIE%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://chinesemov.com/images/2021/Crazy-Tsunami-2021-1.jpg", Crazy Tsunami (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Crazy%20Tsunami%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/neO0c69wGECyhx7XSUyDFXGgvAX.jpg", Ghibah 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Ghibah%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g0EsecBQO3nKol7BRozh3ayyi2b.jpg", Rampant 2018
@@ -750,6 +832,12 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/fctSbleL7ozVcGyC163nPv4arW1.jpg", Monster Hunter Legends Of The Guild (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Monster%20Hunter%20Legends%20Of%20The%20Guild%20(2021).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Vivo%20(2021).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021) MalayDub
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Vivo.2021.1080p.MALAY.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg", Shark Tale 2004
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Shark.Tale.2004.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg", The Croods A New Age (2020)
@@ -901,6 +989,76 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/call-taxi-et00309647-31-03-2021-02-12-03.jpg", Call Taxi (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Call%20Taxi%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9e9ViB1J4rb2UKvXAEn0xilhId.jpg", Inspector Vikram (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/inspector%20Vikram%202021.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8wlcX2ZKomm2bfTZkl84WZ3T3pt.jpg", Theevram (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Theevram%20(2012).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fTroJBj6IZE58OfCetvxRFiits5.jpg", Chanakya (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Chanakya%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/cBfNQhygQWuuKoQZUFEwhTlfpLj.jpg", Cameraman gangatho rambabu (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/CAMERAMAN%20GANGATHO%20RAMBABU.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cFdf9OdVMYdI9UFVD9TJVYpUivw.jpg", Entha Manchivaadavuraa (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Entha%20Manchivaadavuraa%20(2020).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6mxrEWLLEO0VcOZAbY2Fz1I9jIA.jpg", Irumbu Kuthirai (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Irumbu%20Kuthirai%20(2014).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/s1VBoGTbwBuRGDxaT9YCTaGeK2n.jpg", Jai Hind 2 (2014) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jai%20Hind%202%202014.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA2OWE0NjgtN2MxNS00OGNhLTgyZTItMmZiNjZkZWFiOTBlXkEyXkFqcGdeQXVyOTAxMTMyMjI@._V1_.jpg", Naan Sigappu Manithan (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Naan%20Sigappu%20Manithan%20(2014).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg", Parmanu: The Story of Pokhran (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Parmanu%20The%20Story%20of%20Pokhran%20(2018).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cily2czYaIla7RoPQc8L1KO948e.jpg", Vedalam (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Vedalam%20(2015)%20Tamil.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5WguUs8Y3VwUrJ1CF81YFWswQVa.jpg", Yennai Arindhaal (2015) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Yennai%20Arindhaal%20(2015).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jGfWsWcndUpzrdxZ8uddKYlJUsk.jpg", Tango Charlie (2005)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Tango%20Charlie%20(2005)%20Hindi.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zc0OzUOF8B4x4AH4bubxw0mHCnF.jpg", Bhuj The Pride Of India (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Hindi/Bhuj-%20The%20Pride%20of%20India.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/afSVOdens3jMc1QzLA3Ps3XGSbR.jpg", Jism (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jism%20(2003).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/zmKp3tAblyhHgQOSJKkl4TntkFw.jpg", Jism 2 (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jism%202%20(2012).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lasy6dL6VgII8EJzvCxNhNsneuS.jpg", Jazbaa (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jazbaa%20(2015).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8slJezlw5nTNQlPgp3ubfWTUnQY.jpg", Yeh Hai Jalwa (2002)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Yeh%20Hai%20Jalwa%20(2002).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cGlDuu1i3XEXyb0ovUluo3JsCEJ.jpg", Poojai (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Poojai%20(2014).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/w4mMRIbFDaXnZbeu7EH05XZAbcL.jpg", Jackpot (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jackpot%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/awN7MPVHcubWEqfo7T5jidx3xYY.jpg", Hichki (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Hichki.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRkZDA0NjAtMTgyMi00M2E4LTg3ZjYtN2FjYTdhNjIwZmRlXkEyXkFqcGdeQXVyMTA4Nzg3MTc0._V1_.jpg", Dial 100 (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Call%20100%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iAYDZgAi5MYJbEC968LujYKaXIa.jpg", Nannaku Prematho (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Nannaku%20Prematho.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dN3fwrFaSqg07ACvN6HZZYbwyQr.jpg", Baaghi 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Baaghi%20(2016)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1E2lUedrxlzIgReszV0OuJ5JpvG.jpg", Baaghi 2 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Baaghi%202%20(2018)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg", Baaghi 3 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Baaghi%203%20(2020)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg", War 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/War%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNiZWUyYTEtODdiNi00YWMzLThiOTQtNzkxOGM0ZTg4YzhhXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg", Thittam Irandu (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Thittam%20Irandu%20(2021)%20Tamil%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://image.tmdb.org/t/p/w185/tIxgBzSJp13KOTpQqY7La6S3Tdp.jpg", Bannerghatta (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bannerghatta%20(2021)%20Malayalam%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wtsZFBBPH5Y8GEnTPDoHYxWObz8.jpg", Devi (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Devi%20(2016)%20Tamil%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wLlXtwfrydDRFibqsa5zKRLiiOu.jpg", Devi 2 (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Devi%202%20(2019)%20Tamil%20Subs%20Malay.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wBUt6oTFZOMN1skbhIq0gpxpe6J.jpg", Game Over (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Game%20Over%20(2019)%20Tamil%20Subs%20Malay.mp4 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wT3hrqexrK0u12eIBWi3lsIYfJ6.jpg", Indrajith (2017) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Indrajith%20(2017)%20Tamil%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wkdHrAiGskkxG6OJyk2kw0GpwMt.jpg", Kushi (2000)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kushi%20(2000)%20Tamil%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6n6BdLtJ27IWzR5njWul9n1WlHa.jpg", Madha (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Madha%20(2020)%20Telugu%20Subs%20Malay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kOsSC9X6aarcq0LlFAPTECIZ0jd.jpg", Boss 2013
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/BOSS%20(2013)%20HINDI.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE2YWJmYWMtMDhmZC00ZmM0LTk2NjQtYTdiZjViMTNiOWM5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg", Raju Chaca 2000
@@ -1275,6 +1433,102 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ciTS1D4RI3thKZ2mgldQ79yP7DE.jpg", The Green Knight (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Green.Knight.2021.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg", Blood and Bone (2009)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Blood%20and%20Bone%20(2009).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pf4FoUr2phn5WyZjU7rLXSiW1Ve.jpg", Let’s Be Cops (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Let%E2%80%99s%20Be%20Cops%C2%A0(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dQlyPJwRuUOJ6Ni0XWfEMrlPTu.jpg", Million Dollar Arm (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Million%20Dollar%20Arm%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/60AAso6I2TzQCy2SjqtzPni8csA.jpg", Mercury Rising (1998)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Mercury%20Rising%20(1998)%20indo%20sub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7WSPc5O2Gt50LptPWVVBgixGRis.jpg", Nanny Mcphee (2005)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Nanny%20Mcphee%20(2005).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg", Nanny Mcphee Return (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Nanny%20Mcphee%20Return%20(2010).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bJ4h4TY6IOPpgZh9wtbPOgYrh4.jpg", Flags Of Our Fathers (2006)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Flags%20Of%20Our%20Fathers%20(2006).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/6mvcr3AG9rcIBQhMxncWvqmuFuA.jpg", Poltergeist (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Poltergeist%20(2015).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg", Snake Eyes (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Snake.Eyes.G.I.Joe.Origins.2021.1080p_1.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bSMSO9xupd4R4vwTPqigHn2quLN.jpg", Murder Mystery (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Murder%20Mystery%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8Lq4NXOp7I2vxVtTNeSsIpRpS4t.jpg", Stray Dogs (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Stray%20Dogs%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJlODkzMDItNWI5MS00ZmVhLTkzNmUtNzExYjhhNmY4OWZjXkEyXkFqcGdeQXVyMjgxNjgxODI@._V1_.jpg", Paranormal Prison (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Paranormal%20Prison%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg", Samson (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Samson%20(2018).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qXvOpA2nhK5HQ6I95sN3nnMtfjH.jpg", The Last Witch Hunter (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Last%20Witch%20Hunter%20(2015).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ctfRTZs6n75KWAmL6kEvct0qSGx.jpg", The Lizzie McGuire Movie (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Lizzie%20McGuire%20Movie%20(2003).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ijJm0RSeKIr67qkHLtSmtigS6ra.jpg", Coma (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Coma%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/c32q7S9RJvZqPLxKEwNPXFlocJ7.jpg", Obsession (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Obsession%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2EzYWU0YmMtMGUwZi00YTNjLWJmM2ItOWYyMjk3NWZlYWIwXkEyXkFqcGdeQXVyMjg5NzA5Nzg@._V1_.jpg", Notorious Nick (2021) SD
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Notorious%20Nick%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3aU825BI4IsdCPGXANqH2tqePde.jpg", Munich (2005)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Munich%20(2005).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oo2Q3T8juOYFh2G1YJ3oSMAfUyq.jpg", Me Before You (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Me%20Before%20You%20(2016).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/csXyZ1BsDBlH0PXkOFWxggEf9WF.jpg", Street Kings (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Street%20Kings%20(2008).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hAXqjMVgF6TS8oa40TIRfrNix5d.jpg", Emergo aka Apartment 143 (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Emergo%20aka%20Apartment%20143%20(2011).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg", The Shawshank Redemption (1994)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Shawshank%20Redemption%201994.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg", The Swarm (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Swarm%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg", It (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/It%20(2017).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg", It Chapter Two (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/It.Chapter.Two.2019.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/1UKNef590A0ZaMnxsscIcWuK1Em.jpg", Resident Evil (2002)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg", Resident Evil: Apocalypse (2004)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Apocalypse.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6S1gpO1akWvuLWgw7dpNYMzg3Rs.jpg", Resident Evil: Extinction (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Extinction.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xaEHOuIkoTzHQIiex0Ys306Ky05.jpg", Resident Evil: Afterlife (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Afterlife.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg", Resident Evil: Retribution (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Retribution.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg", Resident Evil: The Final Chapter (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20The%20Final%20Chapter.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg", S.W.A.T : under siege 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/S.W.A.T-_Under_Siege_(2017).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg", The Suicide Squad FHD (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/The.Suicide.Squad.2021.1080p.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg", The Suicide Squad (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Suicide%20Squad%20(2021)%20MHB.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/leKQao68zra3SY2cPHZLzEbdLKT.jpg", Life of Pi (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Life%20of%20pi%20(2012).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_.jpg", The Vault (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Vault%20%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg", Alice in Wonderland (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alice%20in%20Wonderland%20(2010).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4g043PWVXkjHkxEEsEfwuAxlM8i.jpg", Alice Through the Looking Glass (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alice%20Through%20The%20Looking%20Glass%20(2016).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg", As Above, So Below (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/As%20Above,%20So%20Below%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg", Wrong Turn (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%20(2003).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/n5Re2ywnpqwAXTin8W5j3lqSwc7.jpg", Wrong Turn 2 Dead End (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%202_%20Dead%20End%20(2007).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/84s4LMWuGbm4xPWW5PSbHyQhh33.jpg", Wrong Turn 3 Left For Dead (2009)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%203_%20Left%20For%20Dead%20(2009).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lwGgaJ6DikLj7wgGB4PPNMs2piK.jpg", Wrong Turn 4 Bloody Beginnings (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%204_%20Bloody%20Beginnings%20(2011).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/i9prGtsGbWzaH30bp8TXPEs6QGm.jpg", Wrong Turn 5 Bloodlines (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%205_%20Bloodlines%20(2012).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cV1biK7jlHVXlQ7ErYe5MUSBGcx.jpg", Wrong Turn 6 Last Resort (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%206_%20Last%20Resort%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg", Wrong Turn (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Wrong%20Turn%20Sequels/Wrong%20Turn%C2%A0(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg", Bartkowiak 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Bartkowiak%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4qE7mvUYGY5epfcgeJpM6EfHgq5.jpg", The Last Warrior-Root Of Evil (2021)
@@ -1996,39 +2250,37 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman%20The%20Secr
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2238.jpg", Kingsman: The Golden Circle (2017)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman.The.Golden.Circle.2017.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6022.jpg", Finding Ohana [2021]
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru8/Finding%20Ohana%20(2021)ok.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Finding%20Ohana%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4192.jpg", Love and Monsters [2020]
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44-1/Love%20and%20Monsters%20(2020).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Love%20and%20Monsters.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6726.jpg", Nobody
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Nobody%202021.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Nobody.2021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6784.jpg", Thunder Force
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Thunder%20Force%20(2021).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Netflix/Thunder%20Force.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4127.jpg", The Chronicles of Narnia: Prince Caspian (2008)
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/The%20Chronicles%20Of%20Narnia%20Prince.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The_Chronicles_Of_Narnia__Prince_Caspian_2008.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4128.jpg", The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/The%20Chronicles%20Of%20Narnia%20The%20Lion.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The_Chronicles_Of_Narnia__The_Lion,_The_Witch_And_The_Wardrobe.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4129.jpg", The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/The%20Chronicles%20Of%20Narnia%20The%20Voyage.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5604.jpg", Locked Down [Multi-Subs] [2021]
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru7/Locked%20Down%202021.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6230.jpg", Wrong Turn [2021]
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Wrong%20Turn%20(2021).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The_Chronicles_Of_Narnia__The_Voyage_Of_The_Dawn_Treader.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5604.jpg", Locked Down [2021]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Locked%20down%202021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4378.jpg", Transcendence (2014)
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Transcendence.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Transcendence%20(2014).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1566.jpg", 6 Underground (2019)
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/8/6%20Underground%20(2019).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/6%20Underground%20(2019).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2786.jpg", Ant-Man (2015)
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/31/Antman%202015.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Ant-Man%20(2015).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3262.jpg", Ant-Man and the Wasp (2018)
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Antman%20And%20The%20Wasp%202018.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Ant-Man%20and%20the%20Wasp%20(2018).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/955.jpg", The Avengers (2012)
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/The%20Avengers%20(2012)720p%20Bluray%20Malay%20Hardsub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/The%20Avengers%20(2012).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1806.jpg", Avengers: Age of Ultron (2015)
-https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/13/Avengers%20Age%20of%20Ultron%20(2015).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Avengers%20Age%20of%20Ultron%20(2015).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1041.jpg", Avengers: Infinity War (2018)
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Avengers%20Infinity%20War%20(2018)%201080pwebdlx264_T1_C1-20.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Avengers%20Infinity%20War%20(2018).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/638.jpg", Avengers: Endgame (2019)
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Avengers%20Endgame%20(2019)720p%20Bluray%20Malay%20Hardsub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Avengers%20Endgame%20(2019).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6745.jpg", Shiva baby
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Shiva%20Baby%20(2020).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6730.jpg", Original Gangster
